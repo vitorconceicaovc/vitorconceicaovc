@@ -15,7 +15,10 @@
   
   ##
    
+ <div> 
   
+ 
+  ![Snake animation](https://github.com/vitorconceicaovc/vitorconceicaovc/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
